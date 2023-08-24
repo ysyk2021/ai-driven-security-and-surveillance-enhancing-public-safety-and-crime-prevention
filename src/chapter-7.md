@@ -1,5 +1,3 @@
-Chapter 7: Future Trends and Opportunities for AI-Driven Security and Surveillance
-==================================================================================
 
 As technology continues to advance, the possibilities for AI-driven security and surveillance are ever-expanding. In this chapter, we will explore the emerging trends in AI for public safety and crime prevention, as well as the new opportunities that AI can unlock in these fields.
 

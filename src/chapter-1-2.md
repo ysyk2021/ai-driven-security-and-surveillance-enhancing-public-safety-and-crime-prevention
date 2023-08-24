@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Public Safety and Crime Prevention Practices
-==============================================================================================================================================
 
 AI-driven security and surveillance is a rapidly developing field that has the potential to enhance public safety and prevent crime. In this chapter, we will provide an introduction to AI-driven security and surveillance, as well as explore the benefits of incorporating AI into public safety and crime prevention practices.
 

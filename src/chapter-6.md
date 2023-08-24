@@ -1,5 +1,3 @@
-Chapter 6: Managing Ethics and Bias in AI-Driven Security and Surveillance
-==========================================================================
 
 As AI continues to transform security and surveillance, it is important to consider the ethical and unbiased implications of its use. In this chapter, we will explore the importance of ethical and unbiased security and surveillance practices and strategies for mitigating risks and ensuring compliance.
 

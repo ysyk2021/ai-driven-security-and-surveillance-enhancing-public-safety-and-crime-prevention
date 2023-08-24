@@ -1,5 +1,3 @@
-Overview of Available Tools and Technologies
-=======================================================================================================================
 
 AI-driven security and surveillance require a variety of tools and technologies to effectively detect, analyze, and respond to potential threats. In this chapter, we will provide an overview of available tools and technologies for AI-driven security and surveillance.
 

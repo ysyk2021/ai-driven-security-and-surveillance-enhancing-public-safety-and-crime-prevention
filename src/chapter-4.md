@@ -1,5 +1,3 @@
-Chapter 4: Enhancing Surveillance with AI
-=========================================
 
 Surveillance is a critical tool for ensuring public safety and preventing crime. In this chapter, we will explore how AI can enhance surveillance through AI-powered video surveillance and activity recognition, as well as automated alert and notification systems.
 

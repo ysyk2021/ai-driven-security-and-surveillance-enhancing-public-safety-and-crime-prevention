@@ -1,5 +1,3 @@
-Chapter 3: Implementing AI in Threat Detection and Analysis
-===========================================================
 
 Threat detection and analysis are critical components of ensuring public safety and preventing crime. In this chapter, we will explore how AI can be implemented in threat detection and analysis through real-time detection and analysis of potential threats, as well as predictive analytics and forecasting for risk assessment.
 

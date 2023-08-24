@@ -1,5 +1,3 @@
-Personalized Crisis Management and Recovery Recommendations using AI
-=====================================================================================================================
 
 During emergency situations, quick and effective response is essential for minimizing damage and saving lives. In this chapter, we will explore how AI can assist in improving emergency response by providing personalized crisis management and recovery recommendations.
 

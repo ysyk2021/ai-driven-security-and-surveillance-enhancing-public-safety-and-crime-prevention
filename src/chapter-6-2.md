@@ -1,5 +1,3 @@
-Mitigating Risks and Ensuring Compliance
-====================================================================================================================
 
 As AI-driven security and surveillance technologies become more prevalent, it is important to ensure that they are used ethically and responsibly. In this chapter, we will explore the ethical considerations involved in AI-driven security and surveillance, as well as strategies for managing bias and mitigating risks.
 

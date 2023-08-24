@@ -1,5 +1,3 @@
-Understanding the Role of AI in Security and Surveillance
-=========================================================================================================================
 
 AI-driven security and surveillance is a rapidly evolving field that utilizes artificial intelligence (AI) technologies such as machine learning, computer vision, and natural language processing to enhance public safety and prevent crime. In this chapter, we will provide an introduction to AI-driven security and surveillance, and explore the role of AI in these practices.
 

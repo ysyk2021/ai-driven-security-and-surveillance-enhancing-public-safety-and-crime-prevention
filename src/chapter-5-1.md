@@ -1,5 +1,3 @@
-AI-Driven Emergency Services Coordination and Management
-=========================================================================================================
 
 During emergency situations, effective coordination and management of emergency services is crucial for minimizing damage and saving lives. In this chapter, we will explore how AI can assist in improving emergency response through AI-driven emergency services coordination and management.
 

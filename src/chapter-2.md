@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Security and Surveillance
-=========================================================================
 
 AI-driven security and surveillance require a variety of tools and technologies to effectively detect, analyze, and respond to potential threats. In this chapter, we will provide an overview of available tools and technologies for AI-driven security and surveillance, as well as considerations for selecting the right tools for your security and surveillance needs.
 

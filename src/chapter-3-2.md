@@ -1,5 +1,3 @@
-Predictive Analytics and Forecasting for Risk Assessment
-=====================================================================================================================
 
 Threat detection and analysis are critical components of ensuring public safety and preventing crime. In this chapter, we will explore how AI can be implemented in threat detection and analysis through predictive analytics and forecasting for risk assessment.
 

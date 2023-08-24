@@ -1,5 +1,3 @@
-Automated Alert and Notification System using AI
-===========================================================================================
 
 Surveillance is a critical tool for ensuring public safety and preventing crime. In this chapter, we will explore how AI can enhance surveillance through automated alert and notification systems.
 
