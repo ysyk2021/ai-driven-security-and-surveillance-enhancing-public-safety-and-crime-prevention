@@ -8,3 +8,7 @@ The book is divided into multiple chapters that delve deeper into specific topic
 Overall, this book provides a guide to AI-driven security and surveillance, their applications and techniques, implementation considerations, and future directions. By leveraging the latest AI-driven security and surveillance technologies, law enforcement agencies and security professionals can prevent crimes and enhance public safety while upholding principles of fairness and equity.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
